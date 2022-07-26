@@ -5,7 +5,7 @@ My name's **Khurram Shaikh**, I'm a 15 year old avid code/technology enthusisast
 
 ### What am I doing now?
 - 🔥 Learning web development from HTML and CSS to create a personal portfolio/website 👀 
-- 🔭 Research at the University of Waterloo  
+- 🔭 Research at the University of Waterloo Cheriton School of Computer Science 
 - 💻 Currently familliarizing myself with the Swift language and Xcode IDE (planning on purchasing the M2 Macbook Air this year 🎯)
 - ⚒️ Exploring and studying mathematical concepts in precalculus and calculus
 - 📚 Working on the JP Morgan Chase & Co. "Software Engineering Virtual Internship"
