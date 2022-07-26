@@ -1,7 +1,7 @@
 # Hey there, I'm Khurram! 👋
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Khurram-Sha&show_icons=true"/>](https://github.com/Khurram-Sha/)
 ## It's me! Here's a brief introduction: 
-My name's **Khurram Shaikh**, I'm a 15 year old avid code/technology enthusisast and problem solver! I have been programming for almost year now, originally started building games 🎮 and apps in android to tackle real world problems and make life more efficient. I admire uncovering solutions to real world problems, especially through programming. Also, I code in mainly Python and C++. My interests encompass the fields of Computer Science 👨‍💻 and Mathematics 🔢; my research includes topics such as Software Engineering, Blockchain, Software Evolution, Algorithms & Complexity and Artificial Intelligence.
+My name's **Khurram Shaikh**, I'm a 15 year old avid code/technology enthusisast and problem solver! I have been programming for almost year now, originally started building games 🎮 and apps in android to tackle real world problems and make life more efficient. I admire uncovering solutions to real world problems, especially through programming. Also, I code in mainly Python and C++. My interests encompass the fields of Computer Science 👨‍💻 and Mathematics 🔢; my research includes topics such as Software Engineering, Blockchain, Software Evolution, Algorithms & Complexity and Machine Learning.
 
 ### What am I doing now?
 - 🔥 Learning web development from HTML and CSS to create a personal portfolio/website 👀 
